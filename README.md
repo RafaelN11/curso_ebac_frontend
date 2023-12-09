@@ -1,2 +1,2 @@
 # curso_ebac_frontend
-Exercícios Front End - Formação Full Stack Python - EBAC
+EBAC - Formação Full Stack Python - Exercícios Front End
